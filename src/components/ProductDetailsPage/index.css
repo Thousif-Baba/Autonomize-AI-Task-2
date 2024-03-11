@@ -1,0 +1,29 @@
+.product-details {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 600px;
+}
+
+.product-title {
+    margin-top: 0;
+}
+
+.product-image {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
+
+.back-link {
+    display: block;
+    margin-top: 20px;
+    color: #007bff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.back-link:hover {
+    color: #0056b3;
+}
